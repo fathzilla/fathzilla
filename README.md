@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJidDdwNXRmNGljMmRwejRiZTVzNDZlano5ampsNXJsMWgzZ3Q1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zkzKelNfWmeJi/giphy.gif" width="400">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJidDdwNXRmNGljMmRwejRiZTVzNDZlano5ampsNXJsMWgzZ3Q1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zkzKelNfWmeJi/giphy.gif" width="450">
 </p>
 
 
@@ -15,7 +15,7 @@ I am a final-year Economics student at Universitas Gadjah Mada, combining academ
 
 ## Contact :mailbox:
 * :link: [LinkedIn](https://www.linkedin.com/in/fathanputrasantoni/)
-* :email: [Email](fathanputrasantoni@gmail.com)
+* :email: [Email](https://mail.google.com/mail/u/0/?fs=1&to=fathanputrasantoni@gmail.com&su=Hello&body=How+are+you?&tf=cm)
 
 I’m excited to collaborate on projects within my areas of interest while also exploring new opportunities. Let’s connect and create something great together!
 
