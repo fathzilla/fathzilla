@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJidDdwNXRmNGljMmRwejRiZTVzNDZlano5ampsNXJsMWgzZ3Q1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zkzKelNfWmeJi/giphy.gif" width="500">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJidDdwNXRmNGljMmRwejRiZTVzNDZlano5ampsNXJsMWgzZ3Q1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zkzKelNfWmeJi/giphy.gif" width="800">
 </p>
 
 Hi there! I'm Fathan Putra Santoni, you can call me Fathan 👋
