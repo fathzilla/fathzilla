@@ -13,6 +13,6 @@ I am a final-year Economics student at Universitas Gadjah Mada, combining academ
 
 I’m excited to collaborate on projects within my areas of interest while also exploring new opportunities. Let’s connect and create something great together!
 
-![Thumbs Up Spongebob]([https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://giphy.com/gifs/spongebob-cartoon-nickelodeon-thumbs-3o7abKhOpu0NwenH3O))
+![Thumbs Up Spongebob](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJidDdwNXRmNGljMmRwejRiZTVzNDZlano5ampsNXJsMWgzZ3Q1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zkzKelNfWmeJi/giphy.gif)
 
 
